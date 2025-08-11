@@ -2,7 +2,7 @@ var d;
 
 function setup() {
   createCanvas(windowWidth, windowHeight).position(0,0).style('z-index','-1');
-  background(243,169,191);
+  background(128,28,186);
 }
 
 function draw() {
